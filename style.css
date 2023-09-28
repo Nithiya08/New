@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-image: url(https://as1.ftcdn.net/v2/jpg/04/31/09/86/1000_F_431098616_2LboAWj65lDjAZoaQWNZ7LZQbZ2hjWrc.jpg);
+
+}
+div.divv h1{
+   font-family: fantasy;
+   font-size: medium; 
+   color: black;
+   text-decoration: none;
+   
+    
+}
+table.tb{
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    width: 400px;
+    height: 200px;
+}
+
+
